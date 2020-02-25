@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">LayoutLab</string>
     <string name="button">button</string>
+    <color name="white">#65B963</color>
 </resources>
